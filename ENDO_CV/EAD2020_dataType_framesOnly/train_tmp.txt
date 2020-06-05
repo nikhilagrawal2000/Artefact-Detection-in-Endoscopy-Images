@@ -1,0 +1,10 @@
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00001.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00002.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00003.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00004.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00005.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00006.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00007.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00008.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00009.jpg
+/home/nikhil/ENDO_CV_2020/EAD2020_dataType_framesOnly/images/EAD2020_frameOnly_00010.jpg
